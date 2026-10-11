@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/tox-dev/tox-tags/commit/c9968c0de98b6a2e74daf5ea124b657d97210bc5",
       "git:hexsha": "c9968c0de98b6a2e74daf5ea124b657d97210bc5",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
