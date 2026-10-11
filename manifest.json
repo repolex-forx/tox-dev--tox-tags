@@ -1,0 +1,26 @@
+{
+  "manifest_version": "1.0",
+  "org": "tox-dev",
+  "repo": "tox-tags",
+  "versions": [
+    {
+      "commit": "c9968c0de98b6a2e74daf5ea124b657d97210bc5",
+      "parsed_at": "2026-10-11T09:08:44.689767+00:00",
+      "filetree": "filetree/c9968c0de98b6a2e74daf5ea124b657d97210bc5.nq.gz",
+      "blobs": [
+        "blob/a1e2f39271452feaf98ecad0b36e87e69b6c8a4c.nq.gz",
+        "blob/7370761d875090ae9d425a9050dcfc5c98a06f12.nq.gz",
+        "blob/bd5e80bc71aaf94b9f7d9c22a409d148d7b6dfe0.nq.gz",
+        "blob/ed58d0f26c9b0ec7b7bbcf87cc2383b3a1763812.nq.gz",
+        "blob/586013db7b61e335522de5799cc02a2f415def88.nq.gz",
+        "blob/d7bb25d7d86dc85414b80113e55e8f30cd52c26c.nq.gz",
+        "blob/6b43cf13cb7216c3969fce8b5a13d5aa09b74b6b.nq.gz",
+        "blob/cc62e27afe370e017f832c454b6c8174fd121fcf.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz"
+}
